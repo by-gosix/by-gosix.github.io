@@ -1,7 +1,7 @@
 .body {
   background-image: url(/assets/pp/gojo1.jpg);
   margin-right: -5%;
-  margin-left: -5%;
+  margin-left: -15%;
   margin-top: -1%;
   background-size: cover;
   background-position: 100%;
@@ -62,14 +62,14 @@
 }
 @media screen {
   .center {
-    margin-left: 40px;
+    margin-left: 58px;
       width: 420px;
       height: 250px;
   }
 
   .navbar {
     margin-top: 13px;
-    margin-left: 20px;
+    margin-left: 0px;
       width: 75px;
       height: 80px;
 
