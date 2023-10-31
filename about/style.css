@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  ;
+
 }
 
 .amerika {
@@ -46,7 +46,7 @@
 
 .navbar a:hover {
   background: lightblue;
-  color: rgb(1, 1, 12);
+  color: darkblue;
 }
 
 
