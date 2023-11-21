@@ -19,8 +19,8 @@ body {
 
 
 .content {
-    margin-left: 51px;
-    padding: 100px;
+    margin-left: 50px;
+    padding: 50px;
 }
 
 .content.expanded {
@@ -38,7 +38,7 @@ body {
     border: 5px solid darkblue;
     width: 140px;
     height: 140px;
-    margin-top: -100%;
+    margin-top: -60%;
     margin-left: 2%;
 
 
