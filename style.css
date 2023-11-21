@@ -1,5 +1,6 @@
 body {
-    margin-left: -50px;
+    margin-top: 180px;
+    margin-left: 0px;
     color: rgb(0, 0, 0);
     background-image: url(/assets/pp/gojo1.jpg);
     background-size: cover;
@@ -16,6 +17,7 @@ body {
 
 }
 
+
 .content {
     margin-left: 50px;
     padding: 100px;
@@ -23,9 +25,6 @@ body {
 
 .content.expanded {
     margin-left: 250px;
-}
-.avatar{
-    margin-top: 0%;
 }
 
 .avatar img {
@@ -39,8 +38,8 @@ body {
     border: 5px solid darkblue;
     width: 140px;
     height: 140px;
-    margin-top: -40%;
-    margin-left: 65%;
+    margin-top: -100%;
+    margin-left: 2%;
 
 
 }
@@ -52,6 +51,7 @@ body {
     border: 5px solid lightblue;
     box-shadow: 0 0 60px #006b96;
 }
+
 
 .center {
     text-align: center;
@@ -87,14 +87,6 @@ h3 {
     color: gray;
 }
 
-.content h2,
-h1,
-h3 {
-    font-weight: lighter;
-    letter-spacing: 1px;
-    width: 80%;
-    margin: 10px auto;
-}
 
 
 
@@ -110,20 +102,6 @@ h3 {
 
 
 
-
-
-@media screen {
-    .center {
-        width: 420px;
-        height: 250px;
-    }
-
-    .navbar {
-        width: 500px;
-        height: 50px;
-
-    }
-}
 
 .social .button {
     width: 85px;
@@ -151,15 +129,6 @@ h3 {
 
 }
 
-.projects button {
-    width: 85px;
-    padding: 15px 0;
-    border-radius: 35px;
-    margin: 5px;
-    text-align: center;
-    font-weight: 600;
-    background-color: white;
-}
 
 .skalpu {
     margin-left: 20px;
