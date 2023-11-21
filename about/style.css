@@ -1,6 +1,6 @@
 body{
   background-color: #000;
-  margin-left: -6%;
+  margin-left: -11%;
   margin-top: 0%;
   background-size: cover;
   background-position: 100%;
@@ -17,17 +17,24 @@ body{
   margin-left: 20px;
 }
 .tablo{
-  margin-left: 500px;
+  margin-left: 200px;
 }
 
 .bilgiler {
   margin-top: 2%;
-  margin-left: 8%;
+  margin-left: 20%;
   text-align: center;
   background-color: #000000b4;
 
   color: lightblue;
   filter: drop-shadow(0px 0px 6px #000000) drop-shadow(0px 0px 2px lightblue) !important;
   text-shadow: lightblue 0px 0px 8px, #000 0px 0px 3px !important;
+  
 }
- 
+
+@media screen  {
+  .bilgiler{
+    width: 600px;
+    height: 800px;
+  }
+}
