@@ -16,31 +16,6 @@ body {
 
 }
 
-.navbar {
-    overflow: hidden;
-    background-color: rgba(0, 0, 0, 0.589);
-    position: absolute;
-    top: 0;
-    width: 500px;
-}
-
-
-.navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 5px 185px;
-    text-decoration: none;
-}
-
-
-.navbar a:hover {
-    background: lightblue;
-    color: darkblue;
-}
-
-
 .content {
     margin-left: 50px;
     padding: 100px;
@@ -77,41 +52,6 @@ body {
     border: 5px solid lightblue;
     box-shadow: 0 0 60px #006b96;
 }
-
-
-
-.avatar2 img {
-    content: url(/assets/pp/john.gif);
-    transition: 1ms;
-    border-radius: 50%;
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    filter: grayscale(100%);
-    border: 5px solid darkblue;
-    width: 140px;
-    height: 135px;
-    margin-top: -40%;
-    margin-left: 20%;
-
-
-}
-
-.avatar2 img:hover {
-    transition: 1s;
-    filter: grayscale(0%);
-    content: url(assets/pp/johns.gif);
-    border: 5px solid lightblue;
-    box-shadow: 0 0 60px #006b96;
-}
-
-.avatar2 {
-    margin-top: -20px;
-}
-
-
-
-
 
 .center {
     text-align: center;
